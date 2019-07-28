@@ -20,3 +20,11 @@
   3. Poll 버튼 클릭
   4. 마우스 클릭과 연동되어 사운드 출력 (Monitor 패널의 state로 활성화 확인)
   5. nopoll 클릭으로 사용 종료
+
+
+
+# 데모
+
+<iframe src="https://player.vimeo.com/video/350558663" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/350558663">shotSoundTester</a> from <a href="https://vimeo.com/user70444941">Jinboum Kim</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
