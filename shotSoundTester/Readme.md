@@ -1,4 +1,4 @@
-# Shotsound Tester
+# shotsound Tester
 
 <img width="504" alt="Screen Shot 2019-07-28 at 5 19 30 PM" src="https://user-images.githubusercontent.com/52766675/62004228-332a5d00-b15d-11e9-9ffe-3e04b436a074.png">
 
