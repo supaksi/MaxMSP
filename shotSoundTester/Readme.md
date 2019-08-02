@@ -25,7 +25,7 @@
 
 # 데모
 
-```
-<div>{%- include extensions/youtube.html id='okLHhLFp0qg' -%}</div>
-```
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/okLHhLFp0qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
