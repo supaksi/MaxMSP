@@ -25,7 +25,5 @@
 
 # 데모
 
-<iframe width="640" height="361" src="https://player.vimeo.com/video/350558663" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
-<p><a href="https://vimeo.com/350558663">shotSoundTester</a> from <a href="https://vimeo.com/user70444941">Jinboum Kim</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+<div>{%- include extensions/youtube.html id='okLHhLFp0qg' -%}</div>
