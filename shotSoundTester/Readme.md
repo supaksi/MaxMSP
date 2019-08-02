@@ -20,12 +20,3 @@
   3. Poll 버튼 클릭
   4. 마우스 클릭과 연동되어 사운드 출력 (Monitor 패널의 state로 활성화 확인)
   5. nopoll 클릭으로 사용 종료
-
-
-
-# 데모
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/okLHhLFp0qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
